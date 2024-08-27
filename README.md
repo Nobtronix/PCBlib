@@ -9,5 +9,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Contact Us
 
-For any inquiries or support, please email us at [NOBTRONIX@gmail.com](mailto:NOBTRONIX@gmail.com).
-You can also check out our YouTube channel for related tutorials and updates: [NOBTRONIX](https://www.youtube.com/@nobtronix)
+- For any inquiries or support, please email us at [NOBTRONIX@gmail.com](mailto:NOBTRONIX@gmail.com).
+- You can also check out our YouTube channel for related tutorials and updates: [NOBTRONIX](https://www.youtube.com/@nobtronix)
