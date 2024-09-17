@@ -17,9 +17,9 @@ Considering that the bobbins of different manufacturers are sometimes different,
 
 ## How to Download 
 
-    -On the repository's main page, you’ll see  a green button labeled "Code". Click it.
-    -In the dropdown menu, select "Download ZIP". This will download the entire repository as a ZIP file to your computer.
-    -Once downloaded, go to your downloads folder, and extract the ZIP file to access the repository files.
+- On the repository's main page, you’ll see  a green button labeled "Code". Click it.
+- In the dropdown menu, select "Download ZIP". This will download the entire repository as a ZIP file to your computer.
+- Once downloaded, go to your downloads folder, and extract the ZIP file to access the repository files.
     
 ## License
 
