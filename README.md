@@ -17,11 +17,10 @@ Considering that the bobbins of different manufacturers are sometimes different,
 
 ## How to Download 
 
-    -On the repository's main page, you’ll see  <span style="color: green;"> a green button </span> labeled "Code". Click it.
-
+    -On the repository's main page, you’ll see  a green button labeled "Code". Click it.
     -In the dropdown menu, select "Download ZIP". This will download the entire repository as a ZIP file to your computer.
-
     -Once downloaded, go to your downloads folder, and extract the ZIP file to access the repository files.
+    
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
